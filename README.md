@@ -1,3 +1,3 @@
 # 30 Day LeetCode Challenge
 
-[https://github.com/timothy-yue/30-Day-LeetCoding-Challenge.git](https://github.com/timothy-yue/30-Day-LeetCoding-Challenge.git)
+[https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
